@@ -1,0 +1,19 @@
+.doFlex{
+  display: flex;
+  margin-bottom: 20px;
+  background-color: rgba(250, 235, 215, 0.42);
+}
+
+.leftSide{
+  width:50% ; 
+  padding: 10px;
+  background-color: bisque;
+}
+
+.rightSide{
+  width:50% ; 
+  padding: 10px;
+  background-color: rgb(255, 188, 105);
+}
+
+
